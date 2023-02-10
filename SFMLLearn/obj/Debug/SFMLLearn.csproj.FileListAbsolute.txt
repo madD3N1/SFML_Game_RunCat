@@ -1,0 +1,26 @@
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\SFMLLearn.exe.config
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\SFMLLearn.exe
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\SFMLLearn.pdb
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-audio.dll
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-graphics.dll
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-learning.dll
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-system.dll
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-window.dll
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.csproj.AssemblyReference.cache
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.csproj.CoreCompileInputs.cache
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.csproj.CopyComplete
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.exe
+E:\Учеба SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.pdb
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\SFMLLearn.exe.config
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\SFMLLearn.exe
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\SFMLLearn.pdb
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-audio.dll
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-graphics.dll
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-learning.dll
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-system.dll
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\bin\Debug\sfml-window.dll
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.csproj.AssemblyReference.cache
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.csproj.CoreCompileInputs.cache
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.csproj.CopyComplete
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.exe
+E:\SkillFactory\Modul SFML\SFMLLearn\SFMLLearn\obj\Debug\SFMLLearn.pdb
